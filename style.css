@@ -1,3 +1,15 @@
+@font-face{
+    font-family: AlphaCentauri;
+    src: url(fonts/alphacentauri-cufonfonts-webfont/Alphacentauri-MVY4p.woff);
+}
+@font-face{
+    font-family: Luckiest Guy;
+    src: url(fonts/Luckiest_Guy/LuckiestGuy-Regular.ttf);
+}
+@font-face{
+    font-family: Poppins;
+    src: url(fonts/Poppins/Poppins-MediumItalic.ttf);
+}
 body {
     margin: 0;
     padding: 0;
